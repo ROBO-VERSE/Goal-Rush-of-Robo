@@ -75,7 +75,7 @@ document.getElementById("reset").addEventListener("click", () => {
     shots = 0;
     gameOver = false;
     scoreDisplay.innerText = `Score: 0`;
-    message.innerText = "সুইপ করে শট নাও,বেবি🫣!";
+    message.innerText = "সুইপ করে শট নাও,পিওও🫣!";
     ball.style.bottom = "20px";
     ball.style.left = "135px";
 });
